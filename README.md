@@ -42,6 +42,7 @@ Qualidade % = DIVIDE([Qtd Produção Aprovada], [Qtd Produção Total])
 
 ## 📸 Screenshots
 **Visão Geral**
+![Dashboard RH](screenshots/powerbi-producao.png)
 
 ## 🔎 Insights Obtidos
 
